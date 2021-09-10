@@ -1,0 +1,67 @@
+baseURL = "https://people.nscl.msu.edu/~hergert/phy820/"
+#staticDir = "https://people.nscl.msu.edu/~hergert/phy820/"
+languageCode = "en-us"
+title = "PHY422/820: Classical Mechanics"
+
+# set default theme
+theme = "hugo-theme-learn"
+
+[params]
+# set color scheme
+themeVariant = "msu"
+
+# Author of the site, will be used in meta information
+author = "Heiko Hergert"
+
+# Description of the site, will be used in meta information
+description = "PHY422/820 Classical Mechanics (Fall Semester 2021)"
+
+
+[outputs]
+# enable search functionality
+home = [ "HTML", "JSON"]
+
+
+# Markdown renderer
+#[blackfriday]
+#fractions = false
+
+[markup]
+	defaultMarkdownHandler = "goldmark"
+	
+  	[markup.goldmark]
+    	[markup.goldmark.renderer]
+      	unsafe = true
+
+# additional shortcuts
+[[menu.shortcuts]] 
+name = "<i class='fas fa-video'></i>  Zoom Link (requires password)"
+identifier = "ds"
+url = "https://msu.zoom.us/j/9189697864"
+weight = 10
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-slack'></i>  Slack Channel"
+identifier = "dt"
+url = "https://msuphysics422-mm52035.slack.com"
+weight = 11
+
+
+[[menu.shortcuts]] 
+name = "<i class='fas fa-signal'></i>  Gradescope"
+identifier = "du"
+url = "https://www.gradescope.com/courses/303916"
+weight = 12
+
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-gitlab'></i>  GitLab Repository"
+identifier = "dv"
+url = "https://gitlab.msu.edu/hhergert/phy820fs21_dist"
+weight = 13
+
+[[menu.shortcuts]] 
+name = "<i class='fas fa-chalkboard'></i>  D2L"
+identifier = "dw"
+url = "https://d2l.msu.edu"
+weight = 14
