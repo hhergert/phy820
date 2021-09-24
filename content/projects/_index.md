@@ -18,9 +18,8 @@ projects via GitLab.
 
 | 	   | Name 											 | File                         | Draft Due |
 |------|-------------------------------------------------|------------------------------|-----------|
-| P01  | **tba** 		   				                 	 | Jupyter 						| **tba**     |
-<!-- | P01  | Pendulum 		   				                 | [Jupyter](p01_pendulum.ipynb) | 10/5     |
-| P02  | Solar System Simulator 		   				 | [Jupyter](p02_solar_system.zip)   | 11/16    |
+| P01  | Pendulum 		   				                 | [Jupyter](p01_pendulum.ipynb) | 10/11     |
+<!-- | P02  | Solar System Simulator 		   				 | [Jupyter](p02_solar_system.zip)   | 11/16    |
 | P03  | Nonlinear Oscillators 		   				     | [Jupyter](p03_nonlinear_oscillator.zip)   | 12/11  |
  -->
 

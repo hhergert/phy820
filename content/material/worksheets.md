@@ -28,10 +28,10 @@ not distribute the solutions.**
 | 1    | W 9/1 - F 9/3| W01: Newtonian Mechanics 		   				     | [PDF](../pdfs/w01.pdf) |
 | 2    | W 9/8 - F 9/10| W02: Manifolds, Constraints, D'Alembert's Principle | [PDF](../pdfs/w02.pdf) | 
 | 3	   | M 9/13 - F 9/17 | W03: Lagrange Equations, Variational Principles <br>  Variational Calculus Demo | [PDF](../pdfs/w03.pdf) <br> [Jupyter](../demos/w03_stationary_functional.ipynb) | 
-| 4    | M 9/20 - F 9/24 | W04: Constraints Revisited, Symmetries            | tbp |
-<!--| 4	   | M 9/20 - F 9/24 | W04: Constraints Revisited, Symmetries 		     | [PDF](../pdfs/w04.pdf) | 
-| 5	   | M 9/28 - F 10/2 | W05: Velocity-Dependent Potentials, Dissipation   | [PDF](../pdfs/w05.pdf) | 
-| 6	   | M 10/5 - F 10/9 | W06: Nonstandard Lagrangians, Odds & Ends  <br>  Cycloidal Pendulum Demo | [PDF](../pdfs/w06.pdf) <br> [Jupyter](../demos/w06_cycloidal_pendulum.ipynb) | 
+| 4	   | M 9/20 - F 9/24 | W04: Constraints Revisited, Symmetries 		     | [PDF](../pdfs/w04.pdf) | 
+| 5	   | M 9/27 - F 10/1 | W05: Velocity-Dependent Potentials, Dissipation   | [PDF](../pdfs/w05.pdf) | 
+| 6    | M 10/4 - F 10/8 | W06: Nonstandard Lagrangians, Odds & Ends         | tbp | 
+<!--| 6	   | M 10/5 - F 10/9 | W06: Nonstandard Lagrangians, Odds & Ends  <br>  Cycloidal Pendulum Demo | [PDF](../pdfs/w06.pdf) <br> [Jupyter](../demos/w06_cycloidal_pendulum.ipynb) | 
 | 7	   | M 10/12 - F 10/16 | W07: Central Forces  							 | [PDF](../pdfs/w07.pdf) | 
 | 8	   | M 10/19 - F 10/23 | W08: The Kepler Problem & Central Force Scattering | [PDF](../pdfs/w08.pdf) | 
 | 9	   | M 10/26 - F 10/30 | W09: Orbital Dynamics, Three-Body Problem  	 | [PDF](../pdfs/w09.pdf) | 
