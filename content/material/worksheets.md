@@ -30,12 +30,12 @@ not distribute the solutions.**
 | 3	   | M 9/13 - F 9/17 | W03: Lagrange Equations, Variational Principles <br>  Variational Calculus Demo | [PDF](../pdfs/w03.pdf) <br> [Jupyter](../demos/w03_stationary_functional.ipynb) | 
 | 4	   | M 9/20 - F 9/24 | W04: Constraints Revisited, Symmetries 		     | [PDF](../pdfs/w04.pdf) | 
 | 5	   | M 9/27 - F 10/1 | W05: Velocity-Dependent Potentials, Dissipation   | [PDF](../pdfs/w05.pdf) | 
-| 6    | M 10/4 - F 10/8 | W06: Nonstandard Lagrangians, Odds & Ends         | tbp | 
-<!--| 6	   | M 10/5 - F 10/9 | W06: Nonstandard Lagrangians, Odds & Ends  <br>  Cycloidal Pendulum Demo | [PDF](../pdfs/w06.pdf) <br> [Jupyter](../demos/w06_cycloidal_pendulum.ipynb) | 
-| 7	   | M 10/12 - F 10/16 | W07: Central Forces  							 | [PDF](../pdfs/w07.pdf) | 
-| 8	   | M 10/19 - F 10/23 | W08: The Kepler Problem & Central Force Scattering | [PDF](../pdfs/w08.pdf) | 
-| 9	   | M 10/26 - F 10/30 | W09: Orbital Dynamics, Three-Body Problem  	 | [PDF](../pdfs/w09.pdf) | 
-| 10   | M 11/02 - F 11/06 | W10: Rigid Body Kinematics <br> Euler Angles Demo| [PDF](../pdfs/w10.pdf) <br> [Mathematica](../demos/w10_euler_angles.nb) | 
+| 6	   | M 10/4 - F 10/8 | W06: Nonstandard Lagrangians, Odds & Ends  <br>  Cycloidal Pendulum Demo | [PDF](../pdfs/w06.pdf) <br> [Jupyter](../demos/w06_cycloidal_pendulum.ipynb) | 
+| 7    | M 10/11 - F 10/15 | W07: Central Forces                             | [PDF](../pdfs/w07.pdf) | 
+| 8	   | M 10/18 - F 10/22 | W08: The Kepler Problem & Central Force Scattering <br> Rutherford Scattering Demo | [PDF](../pdfs/w08.pdf) <br> [Jupyter](../demos/w08_scattering.zip) | 
+| 9	   | W 10/27 - F 10/29 | W09: Orbital Dynamics, Three-Body Problem  	 | [PDF](../pdfs/w09.pdf) | 
+| 10   | M 11/01 - F 11/05 | W10: Rigid Body Kinematics | tbp |
+<!--| 10   | M 11/02 - F 11/06 | W10: Rigid Body Kinematics <br> Euler Angles Demo| [PDF](../pdfs/w10.pdf) <br> [Mathematica](../demos/w10_euler_angles.nb) | 
 | 11   | M 11/09 - F 11/13 | W11: Rigid Body Dynamics, Symmetric Top 		 | [PDF](../pdfs/w11.pdf) | 
 | 12   | M 11/16 - F 11/20 | W12: Spinning Top, Coupled Oscillators <br>Heavy Top Demo | [PDF](../pdfs/w12.pdf) <br> [Mathematica](../demos/w12_heavy_top.nb) | 
 | 13   | M 11/23 - F 11/25 | W13: Hamiltonian Mechanics 		 			 | [PDF](../pdfs/w13.pdf) | 
