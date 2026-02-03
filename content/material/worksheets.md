@@ -34,14 +34,13 @@ not distribute the solutions.**
 | 7    | M 10/11 - F 10/15 | W07: Central Forces                             | [PDF](../pdfs/w07.pdf) | 
 | 8	   | M 10/18 - F 10/22 | W08: The Kepler Problem & Central Force Scattering <br> Rutherford Scattering Demo | [PDF](../pdfs/w08.pdf) <br> [Jupyter](../demos/w08_scattering.zip) | 
 | 9	   | W 10/27 - F 10/29 | W09: Orbital Dynamics, Three-Body Problem  	 | [PDF](../pdfs/w09.pdf) | 
-| 10   | M 11/01 - F 11/05 | W10: Rigid Body Kinematics | tbp |
-<!--| 10   | M 11/02 - F 11/06 | W10: Rigid Body Kinematics <br> Euler Angles Demo| [PDF](../pdfs/w10.pdf) <br> [Mathematica](../demos/w10_euler_angles.nb) | 
-| 11   | M 11/09 - F 11/13 | W11: Rigid Body Dynamics, Symmetric Top 		 | [PDF](../pdfs/w11.pdf) | 
-| 12   | M 11/16 - F 11/20 | W12: Spinning Top, Coupled Oscillators <br>Heavy Top Demo | [PDF](../pdfs/w12.pdf) <br> [Mathematica](../demos/w12_heavy_top.nb) | 
-| 13   | M 11/23 - F 11/25 | W13: Hamiltonian Mechanics 		 			 | [PDF](../pdfs/w13.pdf) | 
-| 14   | M 11/30 - F 12/04 | W14: Canonical Transformations & Poisson Brackets | [PDF](../pdfs/w14.pdf) | 
-| 15   | M 12/07 - F 12/11 | W15: Perturbation Theory, Relativity, Classical Fields | [PDF](../pdfs/w15.pdf) | 
- -->
+| 10   | M 11/01 - F 11/05 | W10: Rigid Body Kinematics <br> Euler Angles Demo| [PDF](../pdfs/w10.pdf) <br> [Mathematica](../demos/w10_euler_angles.nb) | 
+| 11   | M 11/08 - F 11/12 | W11: Rigid Body Dynamics, Symmetric Top 		 | [PDF](../pdfs/w11.pdf) | 
+| 12   | M 11/15 - F 11/19 | W12: Spinning Top, Coupled Oscillators <br>Heavy Top Demo | [PDF](../pdfs/w12.pdf) <br> [Mathematica](../demos/w12_heavy_top.nb) | 
+| 13   | M 11/22 - W 11/24 | W13: Hamiltonian Mechanics 		 			 | [PDF](../pdfs/w13.pdf) | 
+| 14   | M 11/29 - F 12/03 | W14: Canonical Transformations & Poisson Brackets | [PDF](../pdfs/w14.pdf) | 
+| 15   | M 12/06 - F 12/10 | W15: Perturbation Theory, Relativity, Classical Fields | [PDF](../pdfs/w15.pdf) | 
+ 
 {{%notice tip%}}
 Certain browsers will save Jupyter notebooks with an additional `.txt` extension - the files are intact, just rename them in order to do your work. 
 {{% /notice %}}

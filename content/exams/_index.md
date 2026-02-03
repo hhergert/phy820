@@ -8,7 +8,8 @@ chapter = false
 
 ## Time and Location
 
-There will be two midterms that will cover specific parts of the course (see [schedule page for dates]({{< ref "schedule/_index.md" >}})) and a comprehensive final on **Wednesday, Dec 15, at 7:45am**.
+There will be two midterms that will cover specific parts of the course (see [schedule page for dates]({{< ref "schedule/_index.md" >}})) and a comprehensive final on **Wednesday, Dec 15, at 7:45am in STEM2202**. (A separate
+time will be arranged for students with VISA accommodations.)
 
 There will be separate versions of the final: For **PHY422** students, the final will be **two hours**,
 while the PHY820 version will be designed for **three hours**.

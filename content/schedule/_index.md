@@ -20,17 +20,17 @@ Please check back regularly for updates with each week's topics (the general out
 | 6	   | M 10/4 -<br> F 10/8|	Dissipation (cont'd), Recap								| **L**: 1.6 <br> **G**: 1.5 | HW06	 | 10/15 |
 |	   | **F 10/8** | **Midterm 1**  |
 | 7	   | M 10/11 -<br> F 10/15|	Central Forces, Effective Potentials, Orbits			| **L**: 1.7 <br> **G**: 3.1-3.3, 3.5-3.7| HW07	 | 10/22 |
-<!-- | 8	   | M 10/18 -<br> F 10/22|	Kepler Problem, Scattering								| **L**: 1.7 <br> **G**: 3.9-3.11| HW08	 | 10/30 |
-|	   | **M 10/25 - T 10/26** | **Break Days**  |
-| 9	   | **W 10/27** -<br> F 10/29|	Orbital Dynamics, Three-Body Problem	                | **L**: 3.1-3.5, **G**: 3.11-3.12, 4	 | HW09	 | 11/6 |
+| 8	   | M 10/18 -<br> F 10/22|	Kepler Problem, Scattering								| **L**: 1.7 <br> **G**: 3.9-3.11| HW08	 | 10/29 |
+|	   | **M 10/25 - <br> T 10/26** | **Break Days**  |
+| 9	   | **W 10/27** -<br> F 10/29|	Orbital Dynamics, Three-Body Problem	                | **L**: 3.1-3.5, **G**: 3.11-3.12, 4	 | HW09	 | 11/5 |
 | 10   | M 11/1  -<br> F 11/5|	Rotating Frames, Euler Angles, Inertia Tensor			| **L**: 3, 4.1-4.5 <br> **G**: 4| --	 | -- 	|
 | 11   | M 11/8  -<br> F 11/12|	Rigid Body Dynamics										| **L**: 4.6-4.9, <br> **G**: 5| HW11	 | 11/20 |
 |	   | **F 11/12** | **Midterm 2 (tentative)** |
-| 12   | M 11/15  -<br> F 11/20| Spinning Top, Coupled Oscillators, Normal Modes		| **L**: 4.9, 5.1, 5.3-5.7 <br> **G**: 6.1-6.5 | HW12	 | **11/30** |
-| 13   | M 11/23  -<br> W 11/25| Normal Modes (cont'd), Hamiltonian Mechanics			| **L**: 5.4-5.7, 7 <br> **G**: 6.1-6.5,8| HW13	 | 12/4 |
-| 14   | M 11/30  -<br> F 12/4 | Poisson Brackets, Canonical Transformations			| **L**: 7, 8 <br> **G**: 8,9 | HW14	 | 12/11 |
-| 15   | M 12/7 -<br> F 12/11 |	Perturbation Theory, Relativity, Classical Fields	| **L**: 9,10,11 <br> **G**: 10,12,13| --	 | -- |
- -->
+| 12   | M 11/15  -<br> F 11/19| Spinning Top, Coupled Oscillators, Normal Modes		| **L**: 4.9, 5.1, 5.3-5.7 <br> **G**: 6.1-6.5 | HW12	 | **11/29** |
+| 13   | M 11/22  -<br> W 11/24| Normal Modes (cont'd), Hamiltonian Mechanics			| **L**: 5.4-5.7, 7 <br> **G**: 6.1-6.5,8| HW13	 | 12/3 |
+| 14   | M 11/29  -<br> F 12/3 | Poisson Brackets, Canonical Transformations			| **L**: 7, 8 <br> **G**: 8,9 | HW14	 | 12/10 |
+| 15   | M 12/6 -<br> F 12/10 |	Perturbation Theory, Relativity, Classical Fields	| **L**: 9,10,11 <br> **G**: 10,12,13| --	 | -- |
+ 
 
 
 

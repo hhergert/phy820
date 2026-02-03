@@ -30,15 +30,14 @@ repository but not through the website. **Please do not distribute the solutions
 | 5		  | **midterm preparation**								|  -							   | -       |			
 | 6       | HW06: Double Pendulum & Central Forces              | [PDF](hw06.pdf)                  |  F 10/15|
 | 7    	  | HW07: Perturbed Kepler Problem & Scattering 		| [PDF](hw07.pdf)  				   |  F 10/22|
-| 8       | HW08: More Scattering Problems                      | tbp                              |  F 10/29|
-<!--| 8    	  | HW08: More Scattering Problems						| [PDF](hw08.pdf) 			 	   |  F 10/29|
+| 8    	  | HW08: More Scattering Problems						| [PDF](hw08.pdf) 			 	   |  F 10/29|
 | 9    	  | HW09: Rotations									    | [PDF](hw09.pdf) 			 	   |  F 11/05|
 | 10      | **midterm preparation**								| - 						 	   |  -      |
 | 11      | HW11: Gravity of Extended Objects & Coupled Oscillators| [PDF](hw11.pdf) 			   |  F 11/19|
 | 12      | HW12: Driven Oscillators & Hamiltonians				| [PDF](hw12.pdf) 			   	   |  **M 11/29**|
-| 13      | HW13: Hamiltonians and Coordinate Changes			| [PDF](hw13.pdf) 			   	   |  F 12/03|
-| 14      | HW14: Poisson Brackets and Canonical Transformations| [PDF](hw14.pdf) 			   	   |  F 12/10|
- -->
+| 13      | HW13: Hamiltonians and Coordinate Changes           | [PDF](hw13.pdf)                  |  F 12/03|
+| 14      | HW14: Poisson Brackets and Canonical Transformations| [PDF](hw14.pdf)                  |  F 12/10|
+
 <!-- 
 {{%notice tip%}}
 Certain browsers will save Jupyter notebooks with an additional `.txt` extension - the files are intact, just rename them in order to do your work. 

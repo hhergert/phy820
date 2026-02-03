@@ -1,11 +1,14 @@
-baseURL = "https://people.nscl.msu.edu/~hergert/phy820/"
-#staticDir = "https://people.nscl.msu.edu/~hergert/phy820/"
+baseURL = "https://hhergert.github.io/phy820/"
 languageCode = "en-us"
 title = "PHY422/820: Classical Mechanics"
 
 # set default theme
 theme = "hugo-theme-learn"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
 [params]
 # set color scheme
 themeVariant = "msu"

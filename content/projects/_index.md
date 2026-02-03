@@ -19,9 +19,9 @@ projects via GitLab.
 | 	   | Name 											 | File                         | Draft Due |
 |------|-------------------------------------------------|------------------------------|-----------|
 | P01  | Pendulum 		   				                 | [Jupyter](p01_pendulum.ipynb) | 10/11     |
-<!-- | P02  | Solar System Simulator 		   				 | [Jupyter](p02_solar_system.zip)   | 11/16    |
-| P03  | Nonlinear Oscillators 		   				     | [Jupyter](p03_nonlinear_oscillator.zip)   | 12/11  |
- -->
+| P02  | Solar System Simulator 		   				 | [Jupyter](p02_solar_system.zip)   | 11/17    |
+| P03  | Nonlinear Oscillators 		   				     | [Jupyter](p03_nonlinear_oscillator.zip)   | 12/10  |
+
 
 {{%notice tip%}}
 Certain browsers will save Jupyter notebooks with an additional `.txt` extension - the files are intact, just rename them in order to do your work. 
